@@ -31,3 +31,5 @@ Day-02/
    └── solution.py
 ...
 ```
+
+Feel free to explore the repository and track my daily progress.
